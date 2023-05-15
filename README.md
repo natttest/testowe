@@ -1,2 +1,2 @@
 # testowe
-Testowe repozytorium publiczne teat 123
+Testowe repozytorium publiczne test 123
